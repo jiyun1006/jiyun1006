@@ -3,8 +3,8 @@
 <br>
 
 >### 현재 하고 있는 공부 🤔        
->- 부스트캠프 AI TECH(pytorch) <a href ="https://github.com/jiyun1006/Deep_first"> [클릭] </a>   
->- JAVA(SPRING) <a href = "https://github.com/jiyun1006/java_web-jsp-servlet"> [클릭] </a> 
+>- 부스트캠프 AI TECH(Pytorch) <a href ="https://github.com/jiyun1006/Deep_first"> [클릭] </a>   
+>- JAVA(Spring) <a href = "https://github.com/jiyun1006/java_web-jsp-servlet"> [클릭] </a> 
 >- 알고리즘 문제 풀이 <a href ="https://github.com/jiyun1006/algorithm"> [클릭] </a>
 
 <br>
