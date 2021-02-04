@@ -8,13 +8,11 @@
 >- 알고리즘 문제 풀이 <a href ="https://github.com/jiyun1006/algorithm"> [클릭] </a>
 
 <br>
-<br>
 
 >### 앞으로 할 공부 💬   
 >- jenkins   
 >- k8s(kubeflow)   
 
-<br>
 <br>
 
 >### 기술스택 😄     
