@@ -9,16 +9,10 @@
 
 <br>
 
->### 앞으로 할 공부 💬   
+>### 관심있는 기술 💬   
 >- jenkins   
->- k8s(kubeflow)   
+>- k8s(kubeflow)      
 
-<br>
-
->### 기술스택 😄     
->- Scikit-learn(pandas, numpy) <a href ="https://github.com/jiyun1006/ML_guide"> [클릭] </a>    
->- javascript(node.js) <a href = "https://github.com/jiyun1006/wetube"> [클릭] </a>   
->- docker   
 
 
 <!--
