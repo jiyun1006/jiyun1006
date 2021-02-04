@@ -9,9 +9,11 @@
 
 <br>
 
->### 관심있는 기술 💬   
->- jenkins   
->- k8s(kubeflow)      
+>### 관심있는 분야 😄     
+>- Jenkins 
+>- k8s(kubeflow)
+>- Computer vision
+>- MLops(먼 훗날)
 
 
 
