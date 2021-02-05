@@ -12,7 +12,6 @@
 >### 관심있는 분야 😄     
 >- Jenkins 
 >- k8s(kubeflow)
->- Computer vision
 >- MLops(먼 훗날)
 
 
