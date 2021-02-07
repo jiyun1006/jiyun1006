@@ -1,4 +1,4 @@
-### 김지윤 github <a href="https://jiyun1006.github.io/">GITHUB BLOG</a>  👋   
+### 김지윤 github 👋   
 
 <br>
 
