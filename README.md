@@ -11,7 +11,7 @@
 <br>
 
 >### 관심있는 분야 😄     
->- Jenkins 
+>- Jenkins (CI/CD)
 >- k8s(kubeflow)
 
 
