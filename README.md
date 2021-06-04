@@ -3,7 +3,6 @@
 <br>
 
 >### 현재 하고 있는 공부 🤔        
->- 부스트캠프 AI TECH(Pytorch) <a href ="https://github.com/jiyun1006/Deep_first"> [클릭] </a>   
 >- JAVA(jsp, servlet) <a href = "https://github.com/jiyun1006/java_web-jsp-servlet"> [클릭] </a>     
 >- Spring-boot <a href = "https://github.com/jiyun1006/springboot-aws"> [클릭] </a>
 >- 알고리즘 문제 풀이 <a href ="https://github.com/jiyun1006/algorithm"> [클릭] </a>   
