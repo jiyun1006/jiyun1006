@@ -11,7 +11,6 @@
 
 >### 관심있는 분야 😄     
 >- Jenkins (CI/CD)
->- k8s
 >- react native
 
 
