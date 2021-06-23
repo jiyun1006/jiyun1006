@@ -3,7 +3,6 @@
 <br>
 
 >### 현재 하고 있는 공부 🤔          
->- Spring-boot <a href = "https://github.com/jiyun1006/springboot-aws"> [클릭] </a>
 >- 알고리즘 문제 풀이 <a href ="https://github.com/jiyun1006/algorithm-study"> [클릭] </a>   
 >- javascript(ES6)
 
