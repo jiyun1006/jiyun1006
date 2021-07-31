@@ -12,6 +12,7 @@
 >### 관심있는 분야 😄     
 >- Jenkins (CI/CD)
 >- react native
+>- redux
 
 
 
