@@ -12,6 +12,7 @@
 >### 관심있는 분야 😄     
 >- react native
 >- redux
+>- js, react(ts 
 
 
 
