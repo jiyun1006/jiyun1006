@@ -5,14 +5,14 @@
 >### 현재 하고 있는 공부 🤔          
 >- 알고리즘 문제 풀이(javascript, python 연습) <a href ="https://github.com/jiyun1006/algorithm-study"> [클릭] </a>   
 >- javascript(ES6) & Typescript
->- react
+>- js, react(ts로 리팩토링 해보기)
 
 <br>
 
 >### 관심있는 분야 😄     
 >- react native
 >- redux
->- js, react(ts 
+
 
 
 
