@@ -6,7 +6,7 @@
 >- 알고리즘 문제 풀이(javascript, python 연습) <a href ="https://github.com/jiyun1006/algorithm-study"> [클릭] </a>   
 >- javascript(ES6) & Typescript
 >- react(ts로 리팩토링 해보기)
->- 일주일에 하나씩 간단한 프로젝트 완성 해보기.
+>- 당근마켓 클로닝.
 
 <br>
 
