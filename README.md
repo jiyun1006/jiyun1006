@@ -3,7 +3,7 @@
 <br>
 
 >### 현재 하는 공부 🤔          
->- 알고리즘 문제 풀이(java 연습) <a href ="https://github.com/jiyun1006/algorithm-study"> [클릭] </a>   
+>- 알고리즘 문제 풀이(java 연습 - 현재 python으로 풀었던 문제 java로 복기중) <a href ="https://github.com/jiyun1006/algorithm-study"> [클릭] </a>   
 >- spring boot
 >- TDD 개발법
 >- 당근마켓 클로닝.
