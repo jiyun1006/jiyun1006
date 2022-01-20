@@ -6,7 +6,7 @@
 >- 알고리즘 문제 풀이(javascript) <a href ="https://github.com/jiyun1006/algorithm"> [클릭] </a>   
 >- react & javascript(typescript)
 >- TDD 개발법
->- 인터렉티브 웹 (ux)
+>- spring
 
 <br>
 
