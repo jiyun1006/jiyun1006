@@ -5,7 +5,6 @@
 >### 현재 하는 공부 🤔          
 >- 알고리즘 문제 풀이(javascript) <a href ="https://github.com/jiyun1006/algorithm"> [클릭] </a>   
 >- 인터렉티브 웹 개발
->- vanilla js 에 더 집중
 >- react & javascript(typescript)
 
 
