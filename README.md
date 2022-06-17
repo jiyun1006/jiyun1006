@@ -9,17 +9,9 @@
 
 >### 현재 하는 공부 🤔          
 >- 알고리즘 문제 풀이(javascript), CS 전공 공부 (TIL)<a href ="https://github.com/jiyun1006/TIL"> [클릭] </a>   
->- 인터렉티브 웹 개발 
+>- 인터렉티브 웹 개발  
+>- webGL(three.js)
 >- react & javascript
-
-
-<br>
-
-
->### 관심있는 분야 😄     
->- WebGL
->- Three.js
-
 
 
 
